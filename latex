@@ -1,0 +1,37 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{xcolor}
+
+\usepackage{graphicx}
+
+%opening
+\title{\huge{Afrin}}
+\author{\large{jhhj}}
+
+\begin{document}
+
+\section{\underline{\color{blue}{tabular representation}}}
+\maketitle
+\color{green}{hsfdshb}
+\textsc{hjjfjksgd}
+\begin{table}
+
+\color{red}\centering
+ \begin{tabular}{|c|c|c|}
+\hline
+ s.no & name & quality\\
+\hline
+ 1 & afrin & GOOD GIRL\\
+\hline
+ \end{tabular}
+
+\end{table}
+\begin{figure}
+\includegraphics{a.png}
+\end{figure}
+
+
+
+
+
+\end{document}
